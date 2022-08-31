@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aman Saxena
 - 👀 I’m interested in Coding and Playing
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on new technologies
+- 💞️ I’m looking to collaborate on C#, java and .NET
 - 📫 How to reach me at amansaxena106@gmail.com
 
 <!---
